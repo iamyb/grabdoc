@@ -1,0 +1,9 @@
+data/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+checkpoints/*
+demo/images/
+demo/masks/
+
+*.pyc
+__pycache__

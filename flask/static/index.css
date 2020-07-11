@@ -1,0 +1,30 @@
+.box {
+        width: 60%;
+        margin: 0 auto;
+        padding: 20px;
+        /*background: #f0e68c;*/
+}
+#leftbox
+{
+        /*background-color:Yellow;*/
+        position:relative;
+        min-width:49.5%;
+        border-style:dashed; border-width:1px;
+        float:left;
+}
+
+#rightbox
+{
+        /*background-color:red;*/
+        position:relative;
+        width:49.5%;
+        border-style:dashed; border-width:1px;
+        float:right;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
