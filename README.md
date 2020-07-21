@@ -37,6 +37,11 @@ python flask/app.py
 ```
 The port of Flask server is hardcoded to 8080. You can visit the home page via http://{remotehost}:8080/ after it started.
 
+A simele GUI was developed to crop the document intelligently. (I did't upload as the desgin/code is too ugly).
+<p align="center">
+  <img src="./samples/results/grabdoc_ui.gif" />
+</p>
+
 ## More samples  
 [demo.ipynb](./demo.ipynb) is used to generate the results of sample images.  
 
